@@ -1,0 +1,34 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "json.maxItemsComputed": 500000,
+  "workbench.editor.untitled.hint": "hidden",
+  "editor.trimAutoWhitespace": true,
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "trailing",
+  "explorer.confirmDragAndDrop": false,
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+      "*": true,
+      "yaml": true,
+      "plaintext": true,
+      "markdown": true,
+      "python": true
+  },
+  "editor.rulers": [
+      72,
+      80,
+      120
+  ],
+  "workbench.startupEditor": "none",
+  "explorer.confirmDelete": false,
+  "workbench.colorTheme": "Atom One Dark",
+  "security.workspace.trust.untrustedFiles": "open",
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "workbench.editor.enablePreview": false,
+  "bashBeautify.tabSize": 2,
+  "vscodeGoogleTranslate.preferredLanguage": "Chinese (Simplified)",
+  "editor.unicodeHighlight.invisibleCharacters": false
+}
